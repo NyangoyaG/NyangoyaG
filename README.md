@@ -6,7 +6,8 @@ I'm Geofrey Nyangoya, a Computer Science graduate with a strong passion for Netw
 - 🔐 Enthusiastic about Network Security.
 - 🌐 Proficient in networking and programming.
 
-Let's connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/geofrey-nyangoya)
+Let's connect on LinkedIn: <a href="https://www.linkedin.com/in/geofrey-nyangoya" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+
 
 Happy coding! 🚀
 
