@@ -4,9 +4,9 @@
 I'm Geofrey Nyangoya, a Computer Science graduate with a strong passion for Network Security and programming. I enjoy exploring cutting-edge technologies and leveraging programming to solve real-world challenges.
 
 ##
-### - 🎓 BSc in Computer Science.
-### - 🔐 Enthusiastic about Network Security.
-### - 🌐 Proficient in networking and programming.
+- 🎓 Computer Science graduate.
+- 🔐 Interested in <span style="font-family: 'Montserrat', sans-serif;">Network Security</span>.
+- 🚀 Passionate about <span style="font-family: 'Montserrat', sans-serif;">programming</span>.
 ### - Happy coding! 🚀
 ##
 **Let's connect** <br><br>
