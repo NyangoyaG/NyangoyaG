@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Geofrey Nyangoya, a Computer Science graduate with a strong passion for Network Security, networking, and programming. I enjoy exploring cutting-edge technologies and leveraging programming to solve real-world challenges.
+
+- 🎓 BSc in Computer Science.
+- 🔐 Enthusiastic about Network Security.
+- 🌐 Proficient in networking and programming.
+
+Let's connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/geofrey-nyangoya)
+
+Happy coding! 🚀
 
 <!--
 **NyangoyaG/NyangoyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
