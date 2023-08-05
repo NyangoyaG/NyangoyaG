@@ -1,3 +1,4 @@
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 ### Hi there! 👋
 
 I'm Geofrey Nyangoya, a Computer Science graduate with a strong passion for Network Security and programming. I enjoy exploring cutting-edge technologies and leveraging programming to solve real-world challenges.
