@@ -1,28 +1,316 @@
-### Hi there! 👋
-<div style="font-family: 'Montserrat', sans-serif;">
+# 👋 Hi, I'm Geofrey Nyangoya
 
-I'm Geofrey Nyangoya, a Computer Science graduate with a strong passion for Network Security and programming. I enjoy exploring cutting-edge technologies and leveraging programming to solve real-world challenges.
+<h3 align="center">
+ICT Professional • IT Support • Networking • Cybersecurity • Linux • Automation • AI
+</h3>
 
-##
-- 🎓 Computer Science graduate.
-- 🔐 Interested in <span style="font-family: 'Montserrat', sans-serif;">Network Security</span>.
-- 🚀 Passionate about <span style="font-family: 'Montserrat', sans-serif;">programming</span>.
-### - Happy coding! 🚀
-##
-**Time to network** <br><br>
-<a  href="https://www.linkedin.com/in/geofrey-nyangoya/" target="_blank" ><img  src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"  data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width:100%;"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/geofrey-nyangoya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Geofrey%20Nyangoya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NyangoyaG">
+    <img src="https://img.shields.io/badge/GitHub-NyangoyaG-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<!--
-**NyangoyaG/NyangoyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Computer Science graduate** and **ICT professional with 7+ years of hands-on experience** delivering enterprise IT support, systems administration, networking, Microsoft technologies, and cybersecurity solutions.
+
+I enjoy solving real-world technology problems—from troubleshooting complex infrastructure issues to building automation tools that simplify networking and IT operations.
+
+> **I don't just fix technology. I enjoy understanding why it fails, improving it, and building better solutions.**
+
+---
+
+# 🧑‍💻 Professional Snapshot
+
+| **Profile** | **Details** |
+|---|---|
+| 🎓 Education | Bachelor of Computer Science |
+| 💼 Experience | 7+ Years |
+| 🏢 Enterprise Users Supported | 700+ Users |
+| 🌍 Location | Nairobi, Kenya |
+| 🚀 Current Focus | Networking, Cybersecurity, Linux, Cloud & AI |
+| 📚 Learning | CCNA • Cloud Security • AI Automation |
+
+---
+
+# 🛠️ Technical Expertise
+
+## 💻 IT Support & Infrastructure
+
+| **Technology** | **Experience** |
+|---|---|
+| Microsoft 365 | ⭐⭐⭐⭐⭐ |
+| Microsoft Entra ID | ⭐⭐⭐⭐⭐ |
+| Active Directory | ⭐⭐⭐⭐⭐ |
+| Windows 10/11 | ⭐⭐⭐⭐⭐ |
+| Windows Server | ⭐⭐⭐⭐☆ |
+| Endpoint Management | ⭐⭐⭐⭐⭐ |
+| Service Desk / ITSM | ⭐⭐⭐⭐⭐ |
+| Backup & Recovery | ⭐⭐⭐⭐☆ |
+
+---
+
+## 🌐 Networking
+
+| **Networking Skills** | **Level** |
+|---|---|
+| TCP/IP | ⭐⭐⭐⭐⭐ |
+| IPv4 / IPv6 | ⭐⭐⭐⭐⭐ |
+| CIDR & Subnetting | ⭐⭐⭐⭐⭐ |
+| DNS / DHCP | ⭐⭐⭐⭐⭐ |
+| VLANs | ⭐⭐⭐⭐☆ |
+| Switching & Routing | ⭐⭐⭐⭐☆ |
+| VPN Technologies | ⭐⭐⭐⭐☆ |
+| Cisco Networking | ⭐⭐⭐⭐☆ |
+
+---
+
+## 🔐 Cybersecurity
+
+| **Security Area** | **Tools & Skills** |
+|---|---|
+| Network Security | Firewalls, VPNs, Secure Networking |
+| Vulnerability Assessment | Nmap, Nessus Concepts |
+| Penetration Testing | Burp Suite, Metasploit |
+| Digital Forensics | Kali Linux Labs |
+| Reconnaissance | Shodan, theHarvester |
+| Security Monitoring | Linux & Network Analysis |
+
+---
+
+## 🐍 Programming & Automation
+
+| **Language / Tool** | **Purpose** |
+|---|---|
+| Python | Automation & Networking Tools |
+| Bash | Linux Automation |
+| JavaScript | Web Applications |
+| Flask | Backend Development |
+| REST APIs | System Integration |
+| Git & GitHub | Version Control |
+| Docker | Containerized Applications |
+
+---
+
+# 🚀 Featured Project
+
+## 🌐 Subnet Pro — IPv4 & IPv6 Subnetting Calculator
+
+A practical networking calculator built for **network engineers, students, and IT professionals**.
+
+### ✨ Features
+
+| Feature | Description |
+|---|---|
+| IPv4 Calculator | Network, Broadcast & Hosts |
+| IPv6 Calculator | Prefix & Address Planning |
+| CIDR Analysis | Automatic Calculations |
+| Batch Processing | Multiple IP Calculations |
+| REST API | Automation Ready |
+| Responsive UI | Mobile & Desktop Friendly |
+
+### 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| 🌍 Live Demo | https://jeffSubnet.pythonanywhere.com |
+| 🐙 GitHub | https://github.com/NyangoyaG/subnet-calculator |
+
+---
+
+# 🌐 Networking Journey
+
+Networking is where curiosity became passion.
+
+I'm constantly building practical labs to understand how networks communicate, scale, fail, and recover.
+
+### Current Areas of Focus
+
+| **Core Networking** | **Advanced Topics** |
+|---|---|
+| IPv4 & IPv6 | Network Automation |
+| CIDR & Subnetting | Infrastructure Design |
+| DNS & DHCP | VPN Technologies |
+| VLANs | Cloud Networking |
+| Routing | Network Security |
+| Switching | Performance Optimization |
+
+---
+
+# 🔐 Cybersecurity Labs
+
+I believe cybersecurity is best learned through **hands-on practice**.
+
+### My Learning Environment
+
+| **Category** | **Projects** |
+|---|---|
+| Reconnaissance | Nmap, Shodan, theHarvester |
+| Web Security | Burp Suite Labs |
+| Exploitation | Metasploit Practice |
+| Linux Security | Kali Linux |
+| Network Defense | Firewall & Monitoring Labs |
+| Digital Forensics | Incident Investigation Exercises |
+
+---
+
+# 🐧 Linux Workspace
+
+Linux has become my daily workspace for networking and cybersecurity.
+
+### What I Work With
+
+| **Area** | **Tools** |
+|---|---|
+| Administration | Ubuntu • Kali Linux |
+| Shell | Bash • Zsh |
+| Networking | iproute2 • nmcli |
+| Monitoring | top • journalctl |
+| Security | SSH • Firewall Configuration |
+| Automation | Cron • Bash Scripts |
+
+---
+
+# 🤖 AI & Automation
+
+I'm fascinated by how AI can improve traditional IT operations.
+
+### Current Interests
+
+| **AI + IT** | **Applications** |
+|---|---|
+| AI Automation | Repetitive IT Tasks |
+| Network Automation | Python + APIs |
+| Documentation | AI-Assisted Knowledge Base |
+| Troubleshooting | Intelligent Workflows |
+| Productivity | AI Integration for IT Teams |
+
+---
+
+# 💼 Professional Experience
+
+## IT Support Specialist — Teleperformance
+
+Supported **700+ enterprise users** across a fast-paced environment while maintaining high SLA compliance.
+
+### Key Responsibilities
+
+| **Infrastructure** | **Support** |
+|---|---|
+| Microsoft 365 | User Support |
+| Entra ID | Incident Resolution |
+| Active Directory | Endpoint Troubleshooting |
+| Exchange Online | Microsoft Teams |
+| DNS / DHCP | VPN Support |
+| Windows | Technical Documentation |
+
+---
+
+## IT Executive — Ison Xperiences
+
+Delivered technical support for approximately **400 users and 300 devices**, improving operational reliability across enterprise systems.
+
+---
+
+## ICT Intern — Kenya Rural Roads Authority
+
+Built foundational experience in public-sector ICT operations, infrastructure support, and enterprise technology.
+
+---
+
+# 🌍 Community Leadership
+
+Technology is meaningful when it empowers people.
+
+As an **ALX Community Ambassador**, I supported learners across Africa by combining technical support with data-driven decision making.
+
+| **Impact** | **Contribution** |
+|---|---|
+| 🌍 Learner Support | Responded to technical & curriculum queries |
+| 🛠️ Troubleshooting | Resolved learner challenges |
+| 📊 Data Analysis | Qualitative & Quantitative Reporting |
+| 📈 Insights | Identified trends & recurring issues |
+| 🤝 Engagement | Supported learners across multiple countries |
+
+---
+
+# 📚 Certifications
+
+| **Certification** | **Status** |
+|---|---|
+| Bachelor of Computer Science | ✅ Completed |
+| Cisco Introduction to Networks | ✅ Completed |
+| Switching, Routing & Wireless Essentials | ✅ Completed |
+| AfricaHackOn Cybersecurity | ✅ Completed |
+| ALX AI Career Essentials | ✅ Completed |
+| CCNA | 🚧 In Progress |
+
+---
+
+# 🎯 Current Learning Roadmap
+
+```text
+Networking
+     ↓
+Cybersecurity
+     ↓
+Linux
+     ↓
+Cloud Infrastructure
+     ↓
+Automation
+     ↓
+Artificial Intelligence
+```
+
+---
+
+# 📈 What You'll Find Here
+
+This GitHub isn't just a collection of repositories—it's my technical portfolio.
+
+| **Category** | **Projects** |
+|---|---|
+| 🌐 Networking | Subnet Calculator, Cisco Labs |
+| 🔐 Cybersecurity | Kali Labs & Security Projects |
+| 🐍 Python | Automation Scripts |
+| ☁️ Cloud | Infrastructure Experiments |
+| 🤖 AI | Productivity & Automation Projects |
+| 📚 Learning | Technical Documentation |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NyangoyaG&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyangoyaG&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always excited to connect with **IT professionals, recruiters, cybersecurity enthusiasts, network engineers, cloud practitioners, and open-source contributors.**
+
+| **Platform** | **Connect With Me** |
+|---|---|
+| 💼 LinkedIn | https://www.linkedin.com/in/geofrey-nyangoya/ |
+| 🐙 GitHub | https://github.com/NyangoyaG |
+
+---
+
+# ⚡ My Philosophy
+
+> **Learn. Build. Break. Troubleshoot. Improve. Share.**
+
+Technology becomes powerful when it solves real problems.
+
+<p align="center">
+  <b>Thanks for visiting my GitHub! ⭐</b>
+</p>
