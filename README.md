@@ -116,7 +116,7 @@ A practical networking calculator built for **network engineers, students, and I
 
 | Resource | Link |
 | :--- | :--- |
-| ➤ Live Demo | https://jeffSubnet.pythonanywhere.com |
+| ➤ Live Demo | https://subnet-calculator-pggw.onrender.com/ |
 | ➤ GitHub | https://github.com/NyangoyaG/subnet-calculator |
 
 ---
